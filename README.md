@@ -11,8 +11,8 @@ Se você é novo na área e não sabe por onde começar, dê uma olhada na nossa
 
 ## Contents
 ### Folders
-- [Tutoriais](./Tutoriais) - contem os arquivos tutoriais
-- [Exercícios](./Exercicios) - contem os notebooks de exercícios
-- [Links](./links-uteis) - contem links uteis 
+- [Tutoriais](./Tutoriais) - contem os arquivos tutoriais 
+- [Exercícios](./Exercicios) - contem os notebooks de exercícios [**Under Construction**]
+- [Links](./links-uteis) - contem links uteis [**Under Construction**]
 
 ## Credits
